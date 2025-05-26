@@ -16,7 +16,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".jansenActivity"
+            android:name=".JansenActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.jansenApp" >
